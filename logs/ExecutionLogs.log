@@ -1,0 +1,51 @@
+23.10.2023 10:22:23,649 INFO  BrowserFactory:18 - Browser name to create driver object is Chrome
+23.10.2023 10:22:28,228 INFO  BrowserFactory:21 - Chrome Browser is launched
+23.10.2023 10:22:28,228 INFO  BaseTest:29 - Driver is created
+23.10.2023 10:22:28,230 INFO  BaseTest:31 - Driver object is added to Driver thread pool.
+23.10.2023 10:22:28,380 INFO  BaseTest:33 - Browser is maximized
+23.10.2023 10:22:30,838 INFO  ExplicitWaitActions:25 - News Text is available on screen
+23.10.2023 10:22:30,884 INFO  BasePage:62 - [News Text] isDisplayed status is [true]
+23.10.2023 10:22:31,274 INFO  ExplicitWaitActions:25 - First News Article is available on screen
+23.10.2023 10:22:31,316 INFO  BasePage:71 - [The Philippines summons Chinese ambassador after two South China Sea collisions] is a text value of [First News Article]
+23.10.2023 10:22:33,274 INFO  ExplicitWaitActions:40 - Stay Signout Btn is clickable on screen
+23.10.2023 10:22:33,437 INFO  BasePage:28 - Stay Signout Btnis clicked.
+23.10.2023 10:22:33,484 INFO  ExplicitWaitActions:25 - Search Text Box is available on screen
+23.10.2023 10:22:33,537 INFO  BasePage:36 - Search Text Boxis cleared.
+23.10.2023 10:22:34,017 INFO  BasePage:38 - Search Text Box value is entered in The Philippines summons Chinese ambassador after two South China Sea collisions
+23.10.2023 10:22:34,060 INFO  ExplicitWaitActions:25 - Search Text Box is available on screen
+23.10.2023 10:22:34,263 INFO  BasePage:45 - [ENTER] key is Pressed
+23.10.2023 10:22:37,249 INFO  BaseTest:46 - Browser is closed
+23.10.2023 10:24:23,824 INFO  BrowserFactory:18 - Browser name to create driver object is Chrome
+23.10.2023 10:24:27,026 INFO  BrowserFactory:21 - Chrome Browser is launched
+23.10.2023 10:24:27,027 INFO  BaseTest:29 - Driver is created
+23.10.2023 10:24:27,028 INFO  BaseTest:31 - Driver object is added to Driver thread pool.
+23.10.2023 10:24:27,177 INFO  BaseTest:33 - Browser is maximized
+23.10.2023 10:24:29,835 INFO  ExplicitWaitActions:25 - News Text is available on screen
+23.10.2023 10:24:29,873 INFO  BasePage:62 - [News Text] isDisplayed status is [true]
+23.10.2023 10:24:30,207 INFO  ExplicitWaitActions:25 - First News Article is available on screen
+23.10.2023 10:24:30,245 INFO  BasePage:71 - [The Philippines summons Chinese ambassador after two South China Sea collisions] is a text value of [First News Article]
+23.10.2023 10:24:32,290 INFO  ExplicitWaitActions:40 - Stay Signout Btn is clickable on screen
+23.10.2023 10:24:32,439 INFO  BasePage:28 - Stay Signout Btnis clicked.
+23.10.2023 10:24:32,490 INFO  ExplicitWaitActions:25 - Search Text Box is available on screen
+23.10.2023 10:24:32,541 INFO  BasePage:36 - Search Text Boxis cleared.
+23.10.2023 10:24:33,025 INFO  BasePage:38 - Search Text Box value is entered in The Philippines summons Chinese ambassador after two South China Sea collisions
+23.10.2023 10:24:33,066 INFO  ExplicitWaitActions:25 - Search Text Box is available on screen
+23.10.2023 10:24:33,274 INFO  BasePage:45 - [ENTER] key is Pressed
+23.10.2023 10:24:36,206 INFO  BaseTest:46 - Browser is closed
+23.10.2023 13:48:46,234 INFO  BrowserFactory:18 - Browser name to create driver object is Chrome
+23.10.2023 13:48:50,970 INFO  BrowserFactory:21 - Chrome Browser is launched
+23.10.2023 13:48:50,971 INFO  BaseTest:29 - Driver is created
+23.10.2023 13:48:50,985 INFO  BaseTest:31 - Driver object is added to Driver thread pool.
+23.10.2023 13:48:51,130 INFO  BaseTest:33 - Browser is maximized
+23.10.2023 13:48:53,120 INFO  ExplicitWaitActions:25 - News Text is available on screen
+23.10.2023 13:48:53,196 INFO  BasePage:62 - [News Text] isDisplayed status is [true]
+23.10.2023 13:48:53,786 INFO  ExplicitWaitActions:25 - First News Article is available on screen
+23.10.2023 13:48:53,822 INFO  BasePage:71 - [Australia news live: Asio boss says violent protesters will receive ‘full force of my agency’; Virgin ground staff eye strike action] is a text value of [First News Article]
+23.10.2023 13:48:56,185 INFO  ExplicitWaitActions:40 - Stay Signout Btn is clickable on screen
+23.10.2023 13:48:56,329 INFO  BasePage:28 - Stay Signout Btnis clicked.
+23.10.2023 13:48:56,374 INFO  ExplicitWaitActions:25 - Search Text Box is available on screen
+23.10.2023 13:48:56,421 INFO  BasePage:36 - Search Text Boxis cleared.
+23.10.2023 13:48:57,083 INFO  BasePage:38 - Search Text Box value is entered in Australia news live: Asio boss says violent protesters will receive ‘full force of my agency’; Virgin ground staff eye strike action
+23.10.2023 13:48:57,117 INFO  ExplicitWaitActions:25 - Search Text Box is available on screen
+23.10.2023 13:48:57,330 INFO  BasePage:45 - [ENTER] key is Pressed
+23.10.2023 13:49:02,699 INFO  BaseTest:46 - Browser is closed

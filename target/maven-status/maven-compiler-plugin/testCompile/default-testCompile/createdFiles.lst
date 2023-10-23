@@ -1,0 +1,7 @@
+com\pages\GooglePage.class
+com\pages\NewsBackground.class
+com\steps\NewsSteps.class
+com\pages\LoginPage.class
+com\pages\NewsPage.class
+com\steps\LoginSteps.class
+com\runners\NewsRunnerTest.class
